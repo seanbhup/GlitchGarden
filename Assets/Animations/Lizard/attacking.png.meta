@@ -1,96 +1,96 @@
 fileFormatVersion: 2
-guid: f2eeb5cb5ae204f6bb601154a93f60dd
+guid: 81240c99f10cb4d3d8194f658ad16c9f
 TextureImporter:
   fileIDToRecycleName:
-    21300000: attacking_0
-    21300002: attacking_1
-    21300004: attacking_2
-    21300006: attacking_3
-    21300008: attacking_4
-    21300010: attacking_5
-    21300012: attacking_6
-    21300014: attacking_7
-    21300016: attacking_8
-    21300018: attacking_9
-    21300020: attacking_10
-    21300022: attacking_11
-    21300024: attacking_12
-    21300026: attacking_13
-    21300028: attacking_14
-    21300030: attacking_15
-    21300032: attacking_16
-    21300034: attacking_17
-    21300036: attacking_18
-    21300038: attacking_19
-    21300040: attacking_20
-    21300042: attacking_21
-    21300044: attacking_22
-    21300046: attacking_23
-    21300048: attacking_24
-    21300050: attacking_25
-    21300052: attacking_26
-    21300054: attacking_27
-    21300056: attacking_28
-    21300058: attacking_29
-    21300060: attacking_30
-    21300062: attacking_31
-    21300064: attacking_32
-    21300066: attacking_33
-    21300068: attacking_34
-    21300070: attacking_35
-    21300072: attacking_36
-    21300074: attacking_37
-    21300076: attacking_38
-    21300078: attacking_39
-    21300080: attacking_40
-    21300082: attacking_41
-    21300084: attacking_42
-    21300086: attacking_43
-    21300088: attacking_44
-    21300090: attacking_45
-    21300092: attacking_46
-    21300094: attacking_47
-    21300096: attacking_48
-    21300098: attacking_49
-    21300100: attacking_50
-    21300102: attacking_51
-    21300104: attacking_52
-    21300106: attacking_53
-    21300108: attacking_54
-    21300110: attacking_55
-    21300112: attacking_56
-    21300114: attacking_57
-    21300116: attacking_58
-    21300118: attacking_59
-    21300120: attacking_60
-    21300122: attacking_61
-    21300124: attacking_62
-    21300126: attacking_63
-    21300128: attacking_64
-    21300130: attacking_65
-    21300132: attacking_66
-    21300134: attacking_67
-    21300136: attacking_68
-    21300138: attacking_69
-    21300140: attacking_70
-    21300142: attacking_71
-    21300144: attacking_72
-    21300146: attacking_73
-    21300148: attacking_74
-    21300150: attacking_75
-    21300152: attacking_76
-    21300154: attacking_77
-    21300156: attacking_78
-    21300158: attacking_79
-    21300160: attacking_80
-    21300162: attacking_81
-    21300164: attacking_82
-    21300166: attacking_83
-    21300168: attacking_84
-    21300170: attacking_85
-    21300172: attacking_86
-    21300174: attacking_87
-    21300176: attacking_88
+    21300000: talk_0
+    21300002: talk_1
+    21300004: talk_2
+    21300006: talk_3
+    21300008: talk_4
+    21300010: talk_5
+    21300012: talk_6
+    21300014: talk_7
+    21300016: talk_8
+    21300018: talk_9
+    21300020: talk_10
+    21300022: talk_11
+    21300024: talk_12
+    21300026: talk_13
+    21300028: talk_14
+    21300030: talk_15
+    21300032: talk_16
+    21300034: talk_17
+    21300036: talk_18
+    21300038: talk_19
+    21300040: talk_20
+    21300042: talk_21
+    21300044: talk_22
+    21300046: talk_23
+    21300048: talk_24
+    21300050: talk_25
+    21300052: talk_26
+    21300054: talk_27
+    21300056: talk_28
+    21300058: talk_29
+    21300060: talk_30
+    21300062: talk_31
+    21300064: talk_32
+    21300066: talk_33
+    21300068: talk_34
+    21300070: talk_35
+    21300072: talk_36
+    21300074: talk_37
+    21300076: talk_38
+    21300078: talk_39
+    21300080: talk_40
+    21300082: talk_41
+    21300084: talk_42
+    21300086: talk_43
+    21300088: talk_44
+    21300090: talk_45
+    21300092: talk_46
+    21300094: talk_47
+    21300096: talk_48
+    21300098: talk_49
+    21300100: talk_50
+    21300102: talk_51
+    21300104: talk_52
+    21300106: talk_53
+    21300108: talk_54
+    21300110: talk_55
+    21300112: talk_56
+    21300114: talk_57
+    21300116: talk_58
+    21300118: talk_59
+    21300120: talk_60
+    21300122: talk_61
+    21300124: talk_62
+    21300126: talk_63
+    21300128: talk_64
+    21300130: talk_65
+    21300132: talk_66
+    21300134: talk_67
+    21300136: talk_68
+    21300138: talk_69
+    21300140: talk_70
+    21300142: talk_71
+    21300144: talk_72
+    21300146: talk_73
+    21300148: talk_74
+    21300150: talk_75
+    21300152: talk_76
+    21300154: talk_77
+    21300156: talk_78
+    21300158: talk_79
+    21300160: talk_80
+    21300162: talk_81
+    21300164: talk_82
+    21300166: talk_83
+    21300168: talk_84
+    21300170: talk_85
+    21300172: talk_86
+    21300174: talk_87
+    21300176: talk_88
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -113,7 +113,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
-    filterMode: 1
+    filterMode: -1
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -132,7 +132,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: attacking_0
+    - name: talk_0
       rect:
         serializedVersion: 2
         x: 0
@@ -142,7 +142,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_1
+    - name: talk_1
       rect:
         serializedVersion: 2
         x: 251
@@ -152,7 +152,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_2
+    - name: talk_2
       rect:
         serializedVersion: 2
         x: 502
@@ -162,7 +162,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_3
+    - name: talk_3
       rect:
         serializedVersion: 2
         x: 753
@@ -172,7 +172,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_4
+    - name: talk_4
       rect:
         serializedVersion: 2
         x: 1004
@@ -182,7 +182,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_5
+    - name: talk_5
       rect:
         serializedVersion: 2
         x: 1255
@@ -192,7 +192,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_6
+    - name: talk_6
       rect:
         serializedVersion: 2
         x: 1506
@@ -202,7 +202,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_7
+    - name: talk_7
       rect:
         serializedVersion: 2
         x: 1757
@@ -212,7 +212,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_8
+    - name: talk_8
       rect:
         serializedVersion: 2
         x: 2008
@@ -222,7 +222,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_9
+    - name: talk_9
       rect:
         serializedVersion: 2
         x: 2259
@@ -232,7 +232,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_10
+    - name: talk_10
       rect:
         serializedVersion: 2
         x: 2510
@@ -242,7 +242,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_11
+    - name: talk_11
       rect:
         serializedVersion: 2
         x: 2761
@@ -252,7 +252,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_12
+    - name: talk_12
       rect:
         serializedVersion: 2
         x: 3012
@@ -262,7 +262,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_13
+    - name: talk_13
       rect:
         serializedVersion: 2
         x: 3263
@@ -272,7 +272,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_14
+    - name: talk_14
       rect:
         serializedVersion: 2
         x: 3514
@@ -282,7 +282,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_15
+    - name: talk_15
       rect:
         serializedVersion: 2
         x: 0
@@ -292,7 +292,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_16
+    - name: talk_16
       rect:
         serializedVersion: 2
         x: 251
@@ -302,7 +302,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_17
+    - name: talk_17
       rect:
         serializedVersion: 2
         x: 502
@@ -312,7 +312,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_18
+    - name: talk_18
       rect:
         serializedVersion: 2
         x: 753
@@ -322,7 +322,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_19
+    - name: talk_19
       rect:
         serializedVersion: 2
         x: 1004
@@ -332,7 +332,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_20
+    - name: talk_20
       rect:
         serializedVersion: 2
         x: 1255
@@ -342,7 +342,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_21
+    - name: talk_21
       rect:
         serializedVersion: 2
         x: 1506
@@ -352,7 +352,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_22
+    - name: talk_22
       rect:
         serializedVersion: 2
         x: 1757
@@ -362,7 +362,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_23
+    - name: talk_23
       rect:
         serializedVersion: 2
         x: 2008
@@ -372,7 +372,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_24
+    - name: talk_24
       rect:
         serializedVersion: 2
         x: 2259
@@ -382,7 +382,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_25
+    - name: talk_25
       rect:
         serializedVersion: 2
         x: 2510
@@ -392,7 +392,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_26
+    - name: talk_26
       rect:
         serializedVersion: 2
         x: 2761
@@ -402,7 +402,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_27
+    - name: talk_27
       rect:
         serializedVersion: 2
         x: 3012
@@ -412,7 +412,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_28
+    - name: talk_28
       rect:
         serializedVersion: 2
         x: 3263
@@ -422,7 +422,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_29
+    - name: talk_29
       rect:
         serializedVersion: 2
         x: 3514
@@ -432,7 +432,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_30
+    - name: talk_30
       rect:
         serializedVersion: 2
         x: 0
@@ -442,7 +442,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_31
+    - name: talk_31
       rect:
         serializedVersion: 2
         x: 251
@@ -452,7 +452,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_32
+    - name: talk_32
       rect:
         serializedVersion: 2
         x: 502
@@ -462,7 +462,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_33
+    - name: talk_33
       rect:
         serializedVersion: 2
         x: 753
@@ -472,7 +472,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_34
+    - name: talk_34
       rect:
         serializedVersion: 2
         x: 1004
@@ -482,7 +482,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_35
+    - name: talk_35
       rect:
         serializedVersion: 2
         x: 1255
@@ -492,7 +492,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_36
+    - name: talk_36
       rect:
         serializedVersion: 2
         x: 1506
@@ -502,7 +502,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_37
+    - name: talk_37
       rect:
         serializedVersion: 2
         x: 1757
@@ -512,7 +512,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_38
+    - name: talk_38
       rect:
         serializedVersion: 2
         x: 2008
@@ -522,7 +522,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_39
+    - name: talk_39
       rect:
         serializedVersion: 2
         x: 2259
@@ -532,7 +532,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_40
+    - name: talk_40
       rect:
         serializedVersion: 2
         x: 2510
@@ -542,7 +542,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_41
+    - name: talk_41
       rect:
         serializedVersion: 2
         x: 2761
@@ -552,7 +552,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_42
+    - name: talk_42
       rect:
         serializedVersion: 2
         x: 3012
@@ -562,7 +562,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_43
+    - name: talk_43
       rect:
         serializedVersion: 2
         x: 3263
@@ -572,7 +572,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_44
+    - name: talk_44
       rect:
         serializedVersion: 2
         x: 3514
@@ -582,7 +582,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_45
+    - name: talk_45
       rect:
         serializedVersion: 2
         x: 0
@@ -592,7 +592,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_46
+    - name: talk_46
       rect:
         serializedVersion: 2
         x: 251
@@ -602,7 +602,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_47
+    - name: talk_47
       rect:
         serializedVersion: 2
         x: 502
@@ -612,7 +612,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_48
+    - name: talk_48
       rect:
         serializedVersion: 2
         x: 753
@@ -622,7 +622,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_49
+    - name: talk_49
       rect:
         serializedVersion: 2
         x: 1004
@@ -632,7 +632,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_50
+    - name: talk_50
       rect:
         serializedVersion: 2
         x: 1255
@@ -642,7 +642,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_51
+    - name: talk_51
       rect:
         serializedVersion: 2
         x: 1506
@@ -652,7 +652,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_52
+    - name: talk_52
       rect:
         serializedVersion: 2
         x: 1757
@@ -662,7 +662,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_53
+    - name: talk_53
       rect:
         serializedVersion: 2
         x: 2008
@@ -672,7 +672,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_54
+    - name: talk_54
       rect:
         serializedVersion: 2
         x: 2259
@@ -682,7 +682,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_55
+    - name: talk_55
       rect:
         serializedVersion: 2
         x: 2510
@@ -692,7 +692,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_56
+    - name: talk_56
       rect:
         serializedVersion: 2
         x: 2761
@@ -702,7 +702,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_57
+    - name: talk_57
       rect:
         serializedVersion: 2
         x: 3012
@@ -712,7 +712,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_58
+    - name: talk_58
       rect:
         serializedVersion: 2
         x: 3263
@@ -722,7 +722,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_59
+    - name: talk_59
       rect:
         serializedVersion: 2
         x: 3514
@@ -732,7 +732,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_60
+    - name: talk_60
       rect:
         serializedVersion: 2
         x: 0
@@ -742,7 +742,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_61
+    - name: talk_61
       rect:
         serializedVersion: 2
         x: 251
@@ -752,7 +752,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_62
+    - name: talk_62
       rect:
         serializedVersion: 2
         x: 502
@@ -762,7 +762,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_63
+    - name: talk_63
       rect:
         serializedVersion: 2
         x: 753
@@ -772,7 +772,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_64
+    - name: talk_64
       rect:
         serializedVersion: 2
         x: 1004
@@ -782,7 +782,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_65
+    - name: talk_65
       rect:
         serializedVersion: 2
         x: 1255
@@ -792,7 +792,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_66
+    - name: talk_66
       rect:
         serializedVersion: 2
         x: 1506
@@ -802,7 +802,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_67
+    - name: talk_67
       rect:
         serializedVersion: 2
         x: 1757
@@ -812,7 +812,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_68
+    - name: talk_68
       rect:
         serializedVersion: 2
         x: 2008
@@ -822,7 +822,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_69
+    - name: talk_69
       rect:
         serializedVersion: 2
         x: 2259
@@ -832,7 +832,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_70
+    - name: talk_70
       rect:
         serializedVersion: 2
         x: 2510
@@ -842,7 +842,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_71
+    - name: talk_71
       rect:
         serializedVersion: 2
         x: 2761
@@ -852,7 +852,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_72
+    - name: talk_72
       rect:
         serializedVersion: 2
         x: 3012
@@ -862,7 +862,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_73
+    - name: talk_73
       rect:
         serializedVersion: 2
         x: 3263
@@ -872,7 +872,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_74
+    - name: talk_74
       rect:
         serializedVersion: 2
         x: 3514
@@ -882,7 +882,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_75
+    - name: talk_75
       rect:
         serializedVersion: 2
         x: 0
@@ -892,7 +892,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_76
+    - name: talk_76
       rect:
         serializedVersion: 2
         x: 251
@@ -902,7 +902,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_77
+    - name: talk_77
       rect:
         serializedVersion: 2
         x: 502
@@ -912,7 +912,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_78
+    - name: talk_78
       rect:
         serializedVersion: 2
         x: 753
@@ -922,7 +922,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_79
+    - name: talk_79
       rect:
         serializedVersion: 2
         x: 1004
@@ -932,7 +932,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_80
+    - name: talk_80
       rect:
         serializedVersion: 2
         x: 1255
@@ -942,7 +942,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_81
+    - name: talk_81
       rect:
         serializedVersion: 2
         x: 1506
@@ -952,7 +952,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_82
+    - name: talk_82
       rect:
         serializedVersion: 2
         x: 1757
@@ -962,7 +962,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_83
+    - name: talk_83
       rect:
         serializedVersion: 2
         x: 2008
@@ -972,7 +972,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_84
+    - name: talk_84
       rect:
         serializedVersion: 2
         x: 2259
@@ -982,7 +982,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_85
+    - name: talk_85
       rect:
         serializedVersion: 2
         x: 2510
@@ -992,7 +992,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_86
+    - name: talk_86
       rect:
         serializedVersion: 2
         x: 2761
@@ -1002,7 +1002,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_87
+    - name: talk_87
       rect:
         serializedVersion: 2
         x: 3012
@@ -1012,7 +1012,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: attacking_88
+    - name: talk_88
       rect:
         serializedVersion: 2
         x: 3263
