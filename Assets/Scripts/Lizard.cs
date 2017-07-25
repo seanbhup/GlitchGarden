@@ -31,7 +31,9 @@ public class Lizard : MonoBehaviour {
 		attacker.Attack(obj);
 		
 		
-		
+//		if(obj.GetComponent<Stone>()){
+//			anim.SetTrigger("JumpTrigger");
+//		}
 		
 		
 	}
